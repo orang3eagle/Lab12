@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Shape
+comment1.params=name
+comment1.target=Shape(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getSideCount()
+comment4.params=
+comment4.target=double\ getLength()
+comment5.params=
+comment5.target=double\ getWidth()
+comment6.params=
+comment6.target=double\ getPerimeter()
+comment7.params=
+comment7.target=double\ getArea()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

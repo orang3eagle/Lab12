@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Triangle
+comment1.params=sideA\ sideB\ sideC
+comment1.target=Triangle(double,\ double,\ double)
+comment2.params=
+comment2.target=int\ getSideCount()
+comment3.params=
+comment3.target=double\ getArea()
+comment4.params=
+comment4.target=double\ getPerimeter()
+comment5.params=
+comment5.target=double\ getLength()
+comment6.params=
+comment6.target=double\ getWidth()
+numComments=7

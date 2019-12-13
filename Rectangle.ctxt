@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment1.params=length\ width
+comment1.target=Rectangle(double,\ double)
+comment2.params=name\ side_count\ side_length
+comment2.target=Rectangle(java.lang.String,\ int,\ double)
+comment3.params=
+comment3.target=int\ getSideCount()
+comment4.params=
+comment4.target=double\ getLength()
+comment5.params=
+comment5.target=double\ getWidth()
+numComments=6
